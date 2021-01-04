@@ -1,7 +1,7 @@
 'use strict';
 
-let southAmericanMeals = ["Gallo Pinto","Arepas","Pati","Chorreadas","Patacones","Casado"];
-let spanishMeals = ["Paella","Tortilla de Patatas","Patatas Bravas","Calamares en su Tinta","Fricandó","Caracoles a la Llauna"];
+let southAmericanMeals = ["Gallo","Arepas","Pati","Chorreadas","Patacones","Casado"];
+let spanishMeals = ["Paella","Tortilla","Bravas","Calamares","Fricandó","Caracoles"];
 
 
 function removeCostaRicanElement() {
