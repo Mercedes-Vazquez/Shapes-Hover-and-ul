@@ -34,14 +34,14 @@ h2 {
   right: 150px;
   height: 300px;
   width: 300px;
-  background-color: rgb(47, 14, 235);
+  background-color:rgb(71, 43, 235);
 }
 
 ul {
     list-style-type: none;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    text-align:justify;
+    text-align: justify;
     position: relative;
 }
 
@@ -55,17 +55,28 @@ li {
   border-radius: 100%;
 }
 
+.grid-container {
+  display: grid;
+  grid-template-columns: center;
+  padding: 10px;
+}
+
 #buttonDeleteCR{
-  color:rgb(90, 88, 88);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color:rgb(10, 10, 10);
   background-color:rgb(248, 10, 10);
   border-radius: 5%;
   width: 150px;
   padding: 15px;
   margin-left: 45%;  
-}
+ }
+
 #buttonDeleteS{
-  color:rgb(90, 88, 88);
-  background-color: rgb(255, 92, 71);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color:rgb(10, 10, 10);
+  background-color: rgb(71, 43, 235);
   border-radius: 5%;
   width: 150px;
   padding: 15px;
