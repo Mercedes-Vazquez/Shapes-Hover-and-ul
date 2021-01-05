@@ -1,6 +1,6 @@
 # SHAPES, HOVER, AND UL
 ## INTRODUCTION
-The project consists of displaying two squares, each one with a different colour. One of the squares needs to change colour and transform it to a circle when the pointer is on the other square. On each shape we place an unordered list (ul) which contains as items (li) the names of different meals. Items can be deleted.
+The project consists of displaying two squares, each one with a different colour. One of the squares needs to change colour and transform into a circle when the pointer is on the other square. On each shape we place an unordered list (ul) which contains as items (li) the names of different meals. Items can be deleted.
 ## TECHNOLOGIES USED
 Visual Studio Code as the code editor, JavaScript for functionality, HTML for structuring how the web page elements are displayed, CSS for giving style to the elements displayed on the web page.
 ## CODE EXAMPLES
